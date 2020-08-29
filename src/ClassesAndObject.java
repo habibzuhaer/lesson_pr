@@ -17,10 +17,23 @@ public class ClassesAndObject {
     }
 }
 class Person {
-    String name;
-    int age ;
+    private String name;
+    private int age ;
 
-    void setNameAndAge(String username ,int userage){
+    public void setName(String username) {
+        name = username;
+    }
+    public String getName(){
+        return name;
+    }
+    public void setAge(int userAge){
+        age = userAge;
+    }
+    public int getAge() {
+        return age;
+    }
+
+    void setNameAndAge(String username , int userage){
         name = username;
         age = userage;
     }
