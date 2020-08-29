@@ -14,6 +14,10 @@ public class ClassesAndObject {
         //System.out.println("Первому человеку до пенсии : "+ year1 + " лет !" );
         //System.out.println("Второму человеку до пенсии : "+ year2 + " лет !" );
         person1.speak();
+        person1.setName("YFI");
+        person1.setAge(13);
+        person2.setName("UUUU");
+        person2.setAge(25);
     }
 }
 class Person {
