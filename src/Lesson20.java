@@ -1,6 +1,6 @@
 public class Lesson20 {
     public static void main(String[] args) {
-        Human2 human1 = new Human2();
+        Human2 human1 = new Human2("Bob");    // - параметры выбирают конструктор
         human1.setName("Bob");
         human1.setAge(19);
     }
