@@ -1,6 +1,8 @@
 public class Lesson20 {
     public static void main(String[] args) {
-
+        Human human1 = new Human();
+        human1.setName("Bob");
+        human1.setAge(19);
     }
 }
 class Human2 {
