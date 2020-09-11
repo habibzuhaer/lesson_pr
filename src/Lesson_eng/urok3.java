@@ -63,5 +63,35 @@ public class urok3 {
             Ерфе ищн рфы тщ пгт                                   У этого мальчика нет ружья
              */
         }
+        class urok {
+            /*
+            These                                          Эти
+            Those                                          Те
+            There are butterflies                          Это бабочки
+            Those are apples                               Те - яблоки
+            These boys have five balls                     У этих мальчиков есть пять мячей
+            Those boys have seven sticks                   У тех мальчиков есть сем палок
+             */
+            class work{
+                /*
+                Antonio :  Hello , I'm Antonio . What's you name ?
+                Nuwa : My names Nuwa
+                Antonio : Where are you from , Nuwa ?
+                Nuwa  : I'm from China . Where are you from ?
+                Antonio : I'm from Italy . From Milan .
+                 */
+            }
+        }
+        class Work2 {
+            /*
+            Blanca : Hello , I'm Blanca .What's you name?
+            Rafael : My name's Rafael
+            Blanca : Hello Rafael . Where are you from  ?
+            Rafael : I'm from Spain.Where are you fro ?
+            Blanca : Oh, I'm from Spain, too. I'm from Barcelona
+            Rafael : Really ? I'm from Barcelona , too !
+            Blanca : oh, nice to meet you , Rafael .
+             */
+        }
     }
 }
