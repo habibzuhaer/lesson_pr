@@ -11,5 +11,8 @@ public class SolutionLev04_11 {
             System.out.println("количество дней в году: 365");
         else
             System.out.println("количество дней в году: 366");
+        ///
+        ////
+        /////
     }
 }
