@@ -17,6 +17,20 @@ public class urok4 {
     right -прав
     amazing - интересный
     To build - строить
+    Building - здание
+    Builder - Строитель
+    favorite -фаворит
+    Yes , you're right  Ты прав
+    View - вид
+    Look at the view  смотри на этот вид
+    Beatiful -красивый
+    match - определите / соедините
+    anurse -  медсестра
+   an arfitect -архитектор
+   job -работа
+   What do you , do  - Че вы занимаетесь
+   What are you ? - Кто вы (профЕСИЯ)
+
 
 
 
