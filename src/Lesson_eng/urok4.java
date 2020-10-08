@@ -23,14 +23,16 @@ public class urok4 {
     Yes , you're right  Ты прав
     View - вид
     Look at the view  смотри на этот вид
-    Beatiful -красивый
+    Beautiful -красивый
     match - определите / соедините
-    anurse -  медсестра
+    a nurse -  медсестра
    an arfitect -архитектор
    job -работа
    What do you , do  - Че вы занимаетесь
    What are you ? - Кто вы (профЕСИЯ)
-
+   00 - double zero
+   Read -читать
+   Complete - запомнить
 
 
 

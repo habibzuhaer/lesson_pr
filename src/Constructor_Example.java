@@ -1,6 +1,6 @@
 public class Constructor_Example {
     int i;
-    void ConstructorExample(String hello, int i){
+    Constructor_Example(String hello, int i){
         this.i = i;
         System.out.println("run");
         System.out.println(hello);
@@ -9,6 +9,7 @@ public class Constructor_Example {
 }
 class Run {
     public static void main(String[] args) {
-        Constructor_Example constructorExample = new Constructor_Example("Hello");
+        Constructor_Example constructorExample = new Constructor_Example("Hello",5);
+        System.out.println(constructorExample.i);
     }
 }

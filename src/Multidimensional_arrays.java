@@ -13,7 +13,7 @@ public class Multidimensional_arrays {
         {
             for (int j = 0; j < matrice2.length; j++)
             {
-                System.out.println(matrice2[i][j] + " ");
+                System.out.print(matrice2[i][j] + " ");
             }
             System.out.println();
         }
